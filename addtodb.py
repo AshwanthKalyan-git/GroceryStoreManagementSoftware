@@ -100,7 +100,7 @@ class Login_page:
 
         
 
-    def start_mainapp(self):s
+    def start_mainapp(self):
             Details_root=Tk()
             details_page=Database(Details_root)
             Details_root.mainloop()
