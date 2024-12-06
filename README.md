@@ -1,0 +1,1 @@
+In this project, I've implemented a grocery store like database, where you can add the required item details in the grocery store. Theres also a login page with username:Admin Password: 123. I've used Tkinter and Python.
