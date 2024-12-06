@@ -1,1 +1,1 @@
-In this project, I have created a grocery store database where you can add item details. Additionally, there is a login page with the username: Admin and the password: 123. I used Tkinter and Python for this project.
+In this project, I have developed a grocery store database using SQLite3, which utilizes SQL to store item details and allow users to add new items. Additionally, there is a login page with the username "Admin" and the password "123." I used Tkinter and Python to create this project.
